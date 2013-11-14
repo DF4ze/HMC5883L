@@ -16,3 +16,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  WARNING: THE HMC5883L IS NOT IDENTICAL TO THE HMC5883!
  Datasheet for HMC5883L:
  http://www51.honeywell.com/aero/common/documents/myaerospacecatalog-documents/Defense_Brochures-documents/HMC5883L_3-Axis_Digital_Compass_IC.pdf
+
+ 
+ 
+ La bibliothèque fournie par LoveElectronics ne fonctionnait pas avec mon
+Arduino UNO.
+
+Je l'ai donc mise à jour avec les nouvelles méthodes de WIRE
+
+dl officiel :
+http://loveelectronics.co.uk/Tutorials/8/hmc5883l-tutorial-and-arduino-library
